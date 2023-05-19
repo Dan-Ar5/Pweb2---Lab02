@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Obtener código de sesión sin guiones</title>
+    <script>
+        function obtenerCodigoSesion() {
+            var url = document.getElementById("urlSesion").value;
+            var codigo = url.split("/").pop().replace(/-/g, "");
+            document.getElementById("codigoSesion").textContent = codigo;
+        }
+    </script>
+</head>
+<body>
+    <h1>Obtener código de sesión sin guiones</h1>
+    <label for="urlSesion">URL de la sesión:</label>
+    <input type="text" id="urlSesion">
+    <button onclick="obtenerCodigoSesion()">Obtener Código</button>
+    <p>Código de sesión: <span id="codigoSesion"></span></p>
+</body>
+</html>
