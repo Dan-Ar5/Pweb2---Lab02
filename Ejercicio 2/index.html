@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Invertir texto</title>
+</head>
+<body>
+  <h1>Invertir texto</h1>
+
+  <input type="text" id="inputText">
+  <button onclick="invertirTexto()">Invertir</button>
+
+  <div id="resultado"></div>
+
+  <script>
+    function invertirTexto() {
+      var texto = document.getElementById("inputText").value;
+      var textoInvertido = texto.split('').reverse().join('');
+      document.getElementById("resultado").innerHTML = textoInvertido;
+    }
+  </script>
+</body>
+</html>
