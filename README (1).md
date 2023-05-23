@@ -111,7 +111,7 @@
 		 - Código: https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejercicios%20Propuestos/Ejercicio2.js
 
 		 - Ejecución:<br>
-<img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/EjerProp.png">
+<img src="https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/epropuesto1.png">
 
 
    <h2>II. CUESTIONARIO</h2>
@@ -121,7 +121,7 @@
 -   Revisar esta discusión en stackoverflow -  [https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript](https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript)
 	- Al ingresar el ejemplo propuesto en clases por el docente ***arrayGenerator*()** jslint hubo un warning:
 
-<img src = "https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/epropuesto1.png"></img><br>
+<img src = "https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/errores.png"></img><br>
     - **¿Cómo se pueden resolver los warnings?**
 	    - Cambiando un poco el código con la siguiente solución:<br>
 	    <img src = "https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/solucion.png"></img><br>
