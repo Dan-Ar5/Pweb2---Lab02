@@ -51,6 +51,9 @@
  - <h3>Ejercicio 01: </h3>Escriba una función que reciba el número
     de día de la fecha actual new Date().
     
+     - <h4>Vídeo de Ejecución :</h4>
+		 - https://flip.com/s/JK3SkWPAtXzF
+    
 	 - <h4>Código:</h4>
 		 - https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/ejercicio1.js
 	 - <h4>Ejecución:</h4>
