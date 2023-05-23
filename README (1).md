@@ -1,173 +1,133 @@
-<div align="center">
 <table>
-    <theader>
-        <tr>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
-            <th>
-                <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
-                <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
-                <span style="font-weight:bold;">DEPARTAMENTO ACADÉMICO DE INGENIERÍA DE SISTEMAS E INFORMÁTICA</span><br />
-                <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
-            </th>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
-        </tr>
-    </theader>
-    <tbody>
-        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
-    </tbody>
+  <tbody>
+   <tr>
+   <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true"></td>
+   <th>
+   <p>UNIVERSIDAD NACIONAL DE SAN AGUSTIN</p>
+   <p>FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</p>
+   <p>ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</p>
+   </th>
+   <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true"></td>
+   </tr>
+  </tbody>
 </table>
+<div align="center" dir="auto"><table>    
+   <tbody>
+   <tr><td colspan="3">Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
+   <tr><td>Aprobación:  2023/03/01</td><td>Código: GUIA-PRLD-001</td><td>Página: 1</td></tr>
+   </tbody>
+</table></div>
+<div align="center" dir="auto">
+   <span>GUÍA DE LABORATORIO</span><br>
+   <span>(formato estudiante)</span>
 </div>
+<div align="center" dir="auto"><table>
+   <tbody><tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
+   </tbody><tbody>
+   <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
+   <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
+   <tr>
+   <td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+   </tr>
+   <tr>
+   <td>FECHA Presentacion:</td><td>23-May-2023</td><td>Hora de Presentacion:</td><td colspan="3">7:00 pm</td>
+   </tr>
+   <tr><td colspan="3">Estudiante:
+   <ul dir="auto">
+   <li>Choquecondo Aspilcueta Daniela Mabel</li>
+   </ul>
+   </td>
+   <td> NOTA: </td>
+   <td colspan="2"> </td>
+   </tr><tr><td colspan="6">DOCENTE:
+   <ul dir="auto">
+   <li>Anibal Sardon (@unsa.edu.pe)</li>
+   </ul>
+   </td>
+   </tr></tbody></table></div>
+   <h1>SOLUCION Y RESULTADOS</h1>
+   <h2>I. SOLUCION DE EJERCICIOS/PROBLEMAS</h2>
 
-<div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-</div>
+ - <h3>Ejercicio 01: </h3>Escriba una función que reciba el número
+    de día de la fecha actual new Date().
+    
+	 - <h4>Código:</h4>
+		 - https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/ejercicio1.js
+	 - <h4>Ejecución:</h4>
+	 <img src="https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/ejercicio1.png">
+    
+ - <h3>Ejercicio 02: </h3>Escriba una página web que reciba un
+    texto y al presionar un botón muestre el 	mismo texto invertido en
+    otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría
+    como “aloH”.
+    
+	 - <h4>Código:</h4>
+		 - https://github.com/Dan-Ar5/Pweb2---Lab02/tree/main/Ejercicio%202
+	 - <h4>Ejecución:</h4>
+<img src="https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/ejercicio2.png">
+    
+ - <h3>Ejercicio 03: </h3>Escribir una página que muestre cuántos
+    días faltan para el día de Arequipa! 
+    
+	 - <h4>Código:</h4>
+		 - https://github.com/Dan-Ar5/Pweb2---Lab02/tree/main/Ejercicio%203
+	 - <h4>Ejecución:</h4>
+<img src="https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/ejercicio3.png">
 
+ - <h3>Ejercicio 04: </h3>Escribir un página que reciba el URL de
+    la sesión de google meet de hoy y devuelva el código de la sesión
+    sin guiones separadores.
+    
+	 - <h4>Código:</h4>
+		 - https://github.com/Dan-Ar5/Pweb2---Lab02/tree/main/Ejercicio%204
+	 - <h4>Ejecución:</h4>
+<img src="https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/ejercicio4.png">
+    
+ - <h3>a). Ejercicio 05: </h3>Escribir una página que permita calcular
+    las suma de todos los valores de una tabla de valores dinámica. La
+    idea es crear una página web con un formulario que te permita decir
+    cuantos valores tendrá la tabla, luego, al enviar el formulario la
+    tabla se debe crear dinámicamente, junto con otro botón de envió
+    para calcular la suma.
+    
+	 - <h4>Código:</h4>
+		 - https://github.com/Dan-Ar5/Pweb2---Lab02/tree/main/Ejercicio%205
+	 - <h4>Ejecución:</h4>
+<img src="https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/ejercicio5.png">
+    
+ - <h3>Ejercicio 06: </h3>Utilice la herramienta flipgrid -
+    [https://info.flipgrid.com/] envie un video en el tema "Presentacion
+    y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
+    
+    **Link del video de FlipGrid:**  https://flip.com/s/LUoGRjU2hroy
+ - <h3>Ejercicios Propuestos:</h3>
+ 
+	 - *arrayGenerator*();
+		 - Código: https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejercicios%20Propuestos/Ejercicio1.js
+		 
 
-<table>
-<theader>
-<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
-</theader>
-<tbody>
-<tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
-<tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
-</tr>
-<tr>
-<td>FECHA INICIO::</td><td>02-May-2022</td><td>FECHA FIN:</td><td>06-May-2022</td><td>DURACIÓN:</td><td>04 horas</td>
-</tr>
-<tr><td colspan="6">RECURSOS:
-    <ul>
-        <li><a href="https://www.w3schools.com/js">https://www.w3schools.com/js</a></li>        
-    </ul>
-</td>
-</<tr>
-<tr><td colspan="6">DOCENTES:
-<ul>
-<li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
-</ul>
-</td>
-</<tr>
-</tdbody>
-</table>
+		 
+	 - *voutesCounting*();
+		 - Código: https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejercicios%20Propuestos/Ejercicio2.js
 
-# JavaScript
-
-[![License][license]][license-file]
-[![Downloads][downloads]][releases]
-[![Last Commit][last-commit]][releases]
-
-[![Debian][Debian]][debian-site]
-[![Git][Git]][git-site]
-[![GitHub][GitHub]][github-site]
-[![Vim][Vim]][vim-site]
-[![Java][Java]][java-site]
-
-#
-
-## OBJETIVOS TEMAS Y COMPETENCIAS
-
-### OBJETIVOS
-
-- Desarrollar habilidades básicas de programación usando JavaScript
-
-### TEMAS
-- JavaScript sintaxis básica, programación funcional.
-
-<details>
-<summary>COMPETENCIAS</summary>
-
-- C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
-- C.m Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
-- C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.
-
-</details>
-
-## CONTENIDO DE LA GUÍA
-
-### MARCO CONCEPTUAL
-
-- https://www.w3schools.com/js
-
-
-## EJERCICIO RESUELTO POR EL DOCENTE
-- Escriba la función arrayGenerator que reciba tres enteros positivos: n, min y max, con min < max y devuelva un arreglo de n números enteros positivos entre los valores dados (incluyendo min, pero no max). Para la generación de números aleatorios use Math.random() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random.
-
-    - ![arrayGenerator.js](arrayGenerator.js.png)
-
-- Escriba la función voteCounting; que reciba un arreglo votes, conteniendo los votos para varios candidatos considerando un número para cada candidato, y devuelva un objeto con el número que identifica al candidato ganador y los votos que este obtuvo.
-
-     - ![votesCounting.js](votesCounting.js.png)
-
-- Explicación del arreglo contador
-    ```sh
-    v = [2, 2]
-    c = [0, 0, 0]
-    c[v[0]] ++
-    c -> [0, 0, 1]
-    c[v[1]] += 1
-    c -> [0, 0, 2]
-    ```
-
-#
-
-## EJERCICIOS PROPUESTOS
-- Ejercicio 01: Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp  y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.
-- Ejercicio 02: Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.
-- Ejercicio 03: Escribir una página que muestre cuántos días faltan para el día de Arequipa!
-- Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
-- Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
-- Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
-#
-
-## CUESTIONARIO
-- Pruebe este código de arrayGenerator() en la página https://jslint.com/
-- Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
-    - ¿Cómo se pueden resolver los warnings?
-    - ¿Se puede modificar la solución usando map? ¿Cómo?
+		 - Ejecución:<br>
+<img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/EjerProp.png">
 
 
-#
+   <h2>II. CUESTIONARIO</h2>
+   
 
-## REFERENCIAS
-- Javascript tutorial. https://www.w3schools.com/javascript/default.asp, 2021. Accesed: 02-09-2021.
-- Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful
-- Validador HTML - https://validator.w3.org/
-- Validador CSS - https://jigsaw.w3.org/css-validator/
+ - Pruebe este código de arrayGenerator() en la página  [https://jslint.com/](https://jslint.com/)
+-   Revisar esta discusión en stackoverflow -  [https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript](https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript)
+	- Al ingresar el ejemplo propuesto en clases por el docente ***arrayGenerator*()** jslint hubo un warning:
 
-#
-
-[license]: https://img.shields.io/github/license/rescobedoq/pw2?label=rescobedoq
-[license-file]: https://github.com/rescobedoq/pw2/blob/main/LICENSE
-
-[downloads]: https://img.shields.io/github/downloads/rescobedoq/pw2/total?label=Downloads
-[releases]: https://github.com/rescobedoq/pw2/releases/
-
-[last-commit]: https://img.shields.io/github/last-commit/rescobedoq/pw2?label=Last%20Commit
-
-[Debian]: https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white
-[debian-site]: https://www.debian.org/index.es.html
-
-[Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[git-site]: https://git-scm.com/
-
-[GitHub]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[github-site]: https://github.com/
-
-[Vim]: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
-[vim-site]: https://www.vim.org/
-
-[Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
-[java-site]: https://docs.oracle.com/javase/tutorial/
-
-
-[![Debian][Debian]][debian-site]
-[![Git][Git]][git-site]
-[![GitHub][GitHub]][github-site]
-[![Vim][Vim]][vim-site]
-[![Java][Java]][java-site]
-
-[![License][license]][license-file]
-[![Downloads][downloads]][releases]
-[![Last Commit][last-commit]][releases]
+<img src = "https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/errores.png"></img><br>
+    - **¿Cómo se pueden resolver los warnings?**
+	    - Cambiando un poco el código con la siguiente solución:<br>
+	    <img src = "https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/solucion.png"></img><br>
+    -   **¿Se puede modificar la solución usando map? ¿Cómo?**
+	    <img src = "https://github.com/Dan-Ar5/Pweb2---Lab02/blob/main/Ejecuci%C3%B3n/error.png"></img><br>
+   	    - Cree un nuevo array(*newA*) almacenando los aleatorios usando el método ***.map*** conservando la longitud del primer array(*a*).
+ 
+   <h2>III. CONCLUSIONES</h2>
+En definitiva, puedo concluir que JavaScript es un lenguaje de programación versátil y dinámico, con una sintaxis sencilla. Su amplio uso abarca el desarrollo web y otras áreas de la programación. JSlint, por su parte, es una herramienta que garantiza la calidad del código JavaScript al proporcionar recomendaciones y detectar posibles errores. Aunque su rigurosidad puede generar advertencias y errores, su principal objetivo es ayudar a los desarrolladores a seguir las mejores prácticas y mantener un código claro y legible.
