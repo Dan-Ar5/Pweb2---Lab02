@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    color: #007f5f;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, button {
+    margin: 5px;
+  }
+  
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  table td {
+    padding: 5px 10px;
+    border: 1px solid #007f5f;
+  }
+  
+  button {
+    background-color: #00635d;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #resultado {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #007f5f;
+  }
+  

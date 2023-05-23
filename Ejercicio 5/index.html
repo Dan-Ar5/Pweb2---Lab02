@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Ejercicio 5 </title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="ejercicio5.js"></script>
+</head>
+<body>
+  <h1> Crear una tabla para calcular la suma de sus valores :</h1>
+
+  <form id="formTabla" onsubmit="crearTabla(event)">
+    <label for="numValores">Cantidad de celdas: </label>
+    <input type="number" id="numValores" min="1" required>
+    <button type="submit">Crear tabla</button>
+  </form>
+
+  <form id="formSuma" onsubmit="calcularSuma(event)">
+    <table id="tabla"></table>
+    <button type="submit"> La suma es: </button>
+  </form>
+
+  <p id="resultado"></p>
+</body>
+</html>
